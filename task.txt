@@ -1,0 +1,6 @@
+1. Every product belongs to a category
+2. Customers can buy products
+3. Suppliers will sell products
+
+
+ER Diagram -> Class Diagram

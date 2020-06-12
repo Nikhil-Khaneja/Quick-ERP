@@ -1,0 +1,7 @@
+1. Every product belongs to a category
+2. customer can buy product
+3.Supplier will sell product
+ER DIAGRAM ->CLASS DIAGRAM
+
+Products: 
+Name, Description, HSN_CODE, category_id, quantity
